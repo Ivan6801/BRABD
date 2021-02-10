@@ -1,0 +1,16 @@
+body {
+    background-color: var(--black-color);
+    color: white;
+}
+
+.exito_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.exito_container a {
+    color: white;
+}
